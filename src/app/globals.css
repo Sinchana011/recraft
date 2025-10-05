@@ -1,0 +1,10 @@
+/* This file is intentionally left mostly empty. */
+/* Mantine will handle the global styles for us. */
+
+body {
+  background-color: #fff8f0; /* Our light mode background */
+}
+
+.dark body {
+  background-color: #1a1a1a; /* Our dark mode background */
+}
